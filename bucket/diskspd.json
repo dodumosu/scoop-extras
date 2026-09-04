@@ -1,10 +1,10 @@
 {
-    "version": "2.2",
+    "version": "2.3",
     "homepage": "https://github.com/microsoft/diskspd",
     "description": "A storage performance tool.",
     "license": "MIT",
-    "url": "https://github.com/microsoft/diskspd/releases/download/v2.2/DiskSpd.ZIP",
-    "hash": "4cc4ff00e76b8f476cf183fc1e4ef2a45fdad563bdd11879607ba5ad52dab6ec",
+    "url": "https://github.com/microsoft/diskspd/releases/download/v2.3/DiskSpd.ZIP",
+    "hash": "18609981e8b04b4f645f1fd182ad0541615fe71722de36a9a933c54f747218a3",
     "architecture": {
         "32bit": {
             "extract_dir": "x86"
