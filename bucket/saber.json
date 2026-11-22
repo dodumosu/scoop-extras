@@ -1,12 +1,12 @@
 {
-    "version": "1.36.1",
+    "version": "1.38.0",
     "description": "A cross-platform libre handwritten notes app.",
     "homepage": "https://github.com/adil192/saber",
     "license": "GPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/adil192/saber/releases/download/v1.36.1/SaberInstaller_v1.36.1.exe",
-            "hash": "7f36ef4fd31c7c48ae493d3c01aa6cfb9f00e9cef661d56676037f266ea2cc21"
+            "url": "https://github.com/adil192/saber/releases/download/v1.38.0/SaberInstaller_v1.38.0.exe",
+            "hash": "d15000d040f585c967821deaea4701879923edae191bd0a9a8e6a18ed753492a"
         }
     },
     "innosetup": true,
